@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lI+zK+jWQE=",
+  "success": true,
+  "projectFilePath": "F:\\дистанционка\\5 КУРС\\лабы\\Програмирование\\Курсовая\\Traffic_Control\\Traffic_Control\\Traffic_Control.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.35\\microsoft.aspnetcore.connections.abstractions.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.35\\microsoft.aspnetcore.http.connections.client.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.35\\microsoft.aspnetcore.http.connections.common.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.35\\microsoft.aspnetcore.signalr.client.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.35\\microsoft.aspnetcore.signalr.client.core.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.35\\microsoft.aspnetcore.signalr.common.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.35\\microsoft.aspnetcore.signalr.protocols.json.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.features\\6.0.35\\microsoft.extensions.features.6.0.35.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Everest\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
